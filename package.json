@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "mein Project für Webtech\r Web- Intetrface mit Kalender und Erinnerungen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauraWozniak/myApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LauraWozniak/myApp/issues"
+  },
+  "homepage": "https://github.com/LauraWozniak/myApp#readme"
+}
